@@ -1,2 +1,3 @@
 # matplotlib-challenge
-matplotlib homework #5
+
+An exercise using Pandas and Matplotlib to compile, clean, analyze, and plot data from experimental cancer drug trials.
